@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "DPVI-SLAM"
+authors:
+  - family-names: "Lee"
+    given-names: "Seunghun"
+repository-code: "https://github.com/Leeseunghun03/DPVI-SLAM"
+license: GPL-3.0-only
+date-released: 2026-11-24
